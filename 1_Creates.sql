@@ -6,9 +6,9 @@ CREATE TABLE autoren (
 );
 
 CREATE TABLE buecher (
-  buch_id            INTEGER PRIMARY KEY,
-  titel              TEXT,
-  jahr_erstscheinung INTEGER,
-  autor              INTEGER,
-  FOREIGN KEY (autor) REFERENCES autoren(autor_id)
+  buch_id              INTEGER PRIMARY KEY,
+  titel                TEXT,
+  jahr_ersterscheinung INTEGER,
+  autor                INTEGER,
+  FOREIGN KEY (autor)  REFERENCES autoren(autor_id)
 );
