@@ -6,7 +6,7 @@ Das Repository enthält SQL-Dateien für eine einfache Bücher-Verwaltung für S
 Das Datenbank-Schema besteht nur aus zwei Tabellen, nämlich `AUTOREN` und `BUECHER`.
 
 Für die Ausführung der SQL-Dateien in diesem Repository wird das Programm 
-[DB Browser for SQLite](https://sqlitebrowser.org/dl/) welches kostenlos für Windows, 
+[DB Browser for SQLite](https://sqlitebrowser.org/dl/), welches kostenlos für Windows, 
 MacOS und Linux zur Verfügung steht.
 
 <br>
